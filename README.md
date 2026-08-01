@@ -9,7 +9,7 @@ SQL + data visualization project. Answers: which NBA teams get the most wins per
 
 ## Method
 
-`build_cap_efficiency.py` loads both CSVs into SQLite and runs real SQL: a CTE joins the two
+`build_cap_efficiency.py` loads both CSVs into a local SQL database and runs real SQL: a CTE joins the two
 tables on team abbreviation, computes `wins_per_million = wins / (payroll / 1e6)`, then uses
 `RANK()` and `PERCENT_RANK()` window functions to rank and percentile every team. A second
 query aggregates to conference level with `GROUP BY`.
@@ -45,4 +45,4 @@ approach, and the limitation above stated plainly).
 
 ## Tools
 
-Python, SQLite (CTEs, JOINs, window functions), hand-rolled SVG for the scatter chart.
+Python, SQL (CTEs, JOINs, window functions), hand-rolled SVG for the scatter chart.

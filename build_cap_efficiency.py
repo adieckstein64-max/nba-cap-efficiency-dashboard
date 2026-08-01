@@ -1,6 +1,6 @@
 """
 NBA Team Cap Efficiency Dashboard - data build script.
-Real SQL (SQLite) over real Basketball-Reference data.
+Real SQL (CTEs + window functions) over real Basketball-Reference data.
 
 Data sources (both fetched live from basketball-reference.com):
   - team_records_2026.csv  : 2025-26 season final standings (most recently completed NBA season)

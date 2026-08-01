@@ -3,7 +3,7 @@ import { useState, useMemo } from "react";
 /**
  * NBA Team Cap Efficiency Dashboard
  * -----------------------------------
- * Real data, real SQL (SQLite, CTEs + window functions), real results — including the ones
+ * Real data, real SQL (CTEs + window functions), real results — including the ones
  * that reflect uncomfortable methodological limits rather than a clean story.
  *
  * Data sources (fetched live from basketball-reference.com):
@@ -148,7 +148,7 @@ export default function TeamCapEfficiencyProject() {
         <div className="text-xs uppercase tracking-wider text-zinc-500 mb-1">Project 2 · SQL + Data Visualization</div>
         <h1 className="text-2xl font-bold">NBA Team Cap Efficiency Dashboard</h1>
         <p className="text-sm text-zinc-400 mt-1">
-          Real SQL (SQLite, CTEs + window functions) over live Basketball-Reference data. Which teams buy the most wins per dollar of committed payroll — and which don't.
+          Real SQL (CTEs + window functions) over live Basketball-Reference data. Which teams buy the most wins per dollar of committed payroll — and which don't.
         </p>
       </div>
 
@@ -258,7 +258,7 @@ export default function TeamCapEfficiencyProject() {
           </div>
           <div>
             <div className="text-zinc-100 font-medium mb-1">Tools</div>
-            <p>Python (data collection + cleaning), SQLite (CTEs, JOINs, window functions), hand-built SVG visualization (no charting library, for portability).</p>
+            <p>Python (data collection + cleaning), SQL (CTEs, JOINs, window functions), hand-built SVG visualization (no charting library, for portability).</p>
           </div>
         </div>
       )}
