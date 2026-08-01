@@ -1,0 +1,16 @@
+[
+  {
+    "conf": "E",
+    "teams": 15,
+    "total_wins": 609,
+    "avg_payroll": 193969267.0,
+    "avg_wins_per_million": 0.2103
+  },
+  {
+    "conf": "W",
+    "teams": 15,
+    "total_wins": 621,
+    "avg_payroll": 196997616.0,
+    "avg_wins_per_million": 0.2081
+  }
+]

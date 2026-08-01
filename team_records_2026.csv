@@ -1,0 +1,31 @@
+team,abbr,conf,div,wins,losses,wl_pct,nrtg
+Oklahoma City Thunder,OKC,W,NW,64,18,0.780,11.05
+San Antonio Spurs,SAS,W,SW,62,20,0.756,8.27
+Boston Celtics,BOS,E,A,56,26,0.683,8.15
+Detroit Pistons,DET,E,C,60,22,0.732,8.23
+New York Knicks,NYK,E,A,53,29,0.646,6.47
+Houston Rockets,HOU,W,SW,52,30,0.634,5.39
+Denver Nuggets,DEN,W,NW,54,28,0.659,5.17
+Charlotte Hornets,CHO,E,SE,44,38,0.537,5.03
+Cleveland Cavaliers,CLE,E,C,52,30,0.634,4.05
+Minnesota Timberwolves,MIN,W,NW,49,33,0.598,3.08
+Toronto Raptors,TOR,E,A,46,36,0.561,2.58
+Atlanta Hawks,ATL,E,SE,46,36,0.561,2.36
+Miami Heat,MIA,E,SE,43,39,0.524,2.18
+Phoenix Suns,PHO,W,P,45,37,0.549,1.42
+Los Angeles Lakers,LAL,W,P,53,29,0.646,1.74
+Los Angeles Clippers,LAC,W,P,42,40,0.512,1.13
+Orlando Magic,ORL,E,SE,45,37,0.549,0.56
+Portland Trail Blazers,POR,W,NW,42,40,0.512,-0.17
+Philadelphia 76ers,PHI,E,A,45,37,0.549,-0.17
+Golden State Warriors,GSW,W,P,37,45,0.451,-0.55
+New Orleans Pelicans,NOP,W,SW,26,56,0.317,-4.65
+Chicago Bulls,CHI,E,C,31,51,0.378,-5.14
+Dallas Mavericks,DAL,W,SW,26,56,0.317,-5.43
+Memphis Grizzlies,MEM,W,SW,25,57,0.305,-5.90
+Milwaukee Bucks,MIL,E,C,32,50,0.390,-6.49
+Indiana Pacers,IND,E,C,19,63,0.232,-7.96
+Utah Jazz,UTA,W,NW,22,60,0.268,-8.21
+Sacramento Kings,SAC,W,P,22,60,0.268,-10.07
+Brooklyn Nets,BRK,E,A,20,62,0.244,-10.27
+Washington Wizards,WAS,E,SE,17,65,0.207,-11.84
